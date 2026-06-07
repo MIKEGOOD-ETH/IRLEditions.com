@@ -8,8 +8,8 @@ if (form) {
     const name = String(data.get("name") || "").trim();
     const email = String(data.get("email") || "").trim();
     const message = String(data.get("message") || "").trim();
-    const subject = encodeURIComponent("IRL Editions inquiry");
-    const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nProject:\n${message}`);
+    const subject = encodeURIComponent("IRL Editions demo request");
+    const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nCampaign idea:\n${message}`);
 
     window.location.href = `mailto:hello@irleditions.com?subject=${subject}&body=${body}`;
   });

@@ -1,6 +1,6 @@
 # IRL Editions
 
-Static marketing site for IRL Editions, a white-label onchain camera experience platform.
+Static marketing site for IRL Editions and the Founding Edition Pilot outbound sales kit.
 
 ## Local Preview
 
@@ -16,3 +16,4 @@ Then open `http://127.0.0.1:4173/`.
 - `styles.css` - responsive styling
 - `script.js` - contact form mailto handoff
 - `assets/` - product visuals sourced from the G.N.O.M.E. Camera app
+- `sales/` - founding offer brief, outbound templates, and lead tracker CSV
