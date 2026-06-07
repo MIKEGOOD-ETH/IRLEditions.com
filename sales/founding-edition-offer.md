@@ -4,7 +4,7 @@
 
 IRL Editions builds custom branded minting apps for communities, events, and brands that want people to leave a real-world moment with something memorable, collectible, and easy to claim.
 
-The Founding Edition Pilot is a hands-on launch package for one campaign. It is designed for early partners who want a polished IRL minting experience now, while helping fund the continued development of IRL Editions.
+The Founding Edition Pilot is a scoped 60-90 day launch package for one campaign, event, or community moment. It is designed for early partners who want a polished IRL minting experience now, while helping fund the continued development of IRL Editions.
 
 ## What You Get
 
@@ -14,8 +14,9 @@ The Founding Edition Pilot is a hands-on launch package for one campaign. It is 
 - Community gallery for the campaign
 - One event or campaign setup
 - Backend and admin setup
-- Hosting and launch support
-- Post-campaign recap
+- Hosting and support during the pilot
+- Post-pilot recap
+- Option to continue after the pilot
 
 ## Best Fit
 
@@ -28,10 +29,12 @@ This is for teams with a real audience and a real moment coming up:
 
 ## Pricing
 
-- Setup: $10k-$20k
-- Ongoing upkeep after launch: $1k/month
+- Starting at $10k
+- Typical founding pilots: $10k-$20k, depending on scope
 
-Setup depends on campaign complexity, visual customization, launch timeline, and any extra operational needs. Monthly upkeep covers hosting, support, monitoring, and light iteration after launch.
+Pricing depends on campaign complexity, visual customization, launch timeline, and any extra operational needs.
+
+Ongoing hosting, support, light updates, or event concierge can be added after the pilot based on what the partner needs.
 
 ## Why Now
 

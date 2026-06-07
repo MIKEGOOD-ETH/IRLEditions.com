@@ -2,7 +2,7 @@
 
 Hey [Name] - wanted to follow up on the IRL Editions pilot idea.
 
-The short version: I am looking for 3 founding partners who want a custom branded camera/minting app for one real-world campaign, with QR claims, giftable wallets, a community gallery, setup/support, and a recap after launch.
+The short version: I am looking for 3 founding partners who want a scoped 60-90 day pilot for a custom branded camera/minting app, with QR claims, giftable wallets, a community gallery, setup/support, and a recap after launch.
 
 I still think [Community/Event/Brand] could be a strong fit because [specific reason].
 

@@ -8,7 +8,7 @@ I am building IRL Editions, a custom branded minting app for communities, events
 
 The idea is simple: instead of a generic photo booth or one-off activation page, [Community/Event/Brand] could have its own branded camera and minting experience. Guests capture or receive a moment, claim it through a QR flow, get a giftable wallet if needed, and see the campaign live on through a community gallery.
 
-The Founding Edition Pilot includes:
+The Founding Edition Pilot is a scoped 60-90 day build and includes:
 
 - Branded camera and minting app
 - QR claim flow
@@ -16,10 +16,12 @@ The Founding Edition Pilot includes:
 - Community gallery
 - One event or campaign setup
 - Backend/admin setup
-- Hosting and launch support
-- Post-campaign recap
+- Hosting and support during the pilot
+- Post-pilot recap
 
-Pricing is $10k-$20k for setup, with $1k/month upkeep after launch.
+Pricing starts at $10k. Most founding pilots land around $10k-$20k depending on campaign scope, timeline, and support needs.
+
+Ongoing hosting, support, light updates, or event concierge can be added after the pilot if the experience should continue.
 
 I am looking to close 3 pre-sale clients to fund continued IRL Editions development, so founding partners would get a close, hands-on build relationship and a lot of influence over how the product takes shape.
 
